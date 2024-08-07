@@ -22,6 +22,6 @@
 - [Nodemailer](https://nodemailer.com/about/) - Sending emails
 - [Pino](https://github.com/pinojs/pino) - Logging
 - [config](https://github.com/lorenwest/node-config) - Managing configuration
-- [VueJS] (https://vuejs.org/guide/quick-start.html) - JavaScript SPA Framework for Frontend
-- [VueRouter] (https://router.vuejs.org/) - Router Library for VUE
-- [Pinia] (https://pinia.vuejs.org/) - For Vue State management
+- [VueJS](https://vuejs.org/guide/quick-start.html) - JavaScript SPA Framework for Frontend
+- [VueRouter](https://router.vuejs.org/) - Router Library for VUE
+- [Pinia](https://pinia.vuejs.org/) - For Vue State management
