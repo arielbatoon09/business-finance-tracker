@@ -1,4 +1,4 @@
-# Authentication REST API with Node.js, TypeScript, Typegoose & Zod
+# Business Finance Tracker APP - Built using Node/Express and VueJS
 
 ## Features
 1. Authentication
@@ -10,18 +10,6 @@
     6. Login
     7. Access token
     8. Refresh tokens
-
-2. ....
-
-## Features
-1. Register a user
-2. Verify user's email address
-3. Send forgot password email
-4. Reset password
-5. Get current user
-6. Login
-7. Access token
-8. Refresh tokens
 
 ## What technology stacks are we using?
 - [TypeScript](https://www.typescriptlang.org/) - Static tye checking 
