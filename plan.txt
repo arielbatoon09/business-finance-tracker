@@ -1,0 +1,11 @@
+Business Finance Tracker Requirements:
+
+General:
+1. Authentication
+
+Features:
+1. Business Expense Tracker
+2. Business Sales Tracker (Original Price - Price Received)
+3. Add Product / Service Tags (with Original Price)
+4. Weekly, Monthly, and Yearly Reports for Expense and Sales
+5. Add Category (Gas, Electricity, etc.)
